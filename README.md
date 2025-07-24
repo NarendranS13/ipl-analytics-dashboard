@@ -38,6 +38,9 @@ SQLITE3 DB
 
 ##### Visualization
 1. Utlizied the PowerBI to showcase the data.
+2. Utilized the Merged Table.
+3. Created the Line and Clustered Column Chart where X axis is Players & Y-Axis Total Runs & Y-Axis Line Strike Rate
+4. Added Slicers for Country, Batter Hand and Player Filter.
 
 <img width="1178" height="662" alt="image" src="https://github.com/user-attachments/assets/ab2dfc8e-87c9-40fc-afde-a766dc9673c3" />
 
