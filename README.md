@@ -39,3 +39,5 @@ SQLITE3 DB
 ##### Visualization
 1. Utlizied the PowerBI to showcase the data.
 
+<img width="1178" height="662" alt="image" src="https://github.com/user-attachments/assets/ab2dfc8e-87c9-40fc-afde-a766dc9673c3" />
+
