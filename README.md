@@ -28,6 +28,7 @@ Merging Players.xlsx and most_runs_average_strikerate.csv
 
 1. cleaned_players.csv
 2. cleaned_palyers_stat.csv
+3. players_statistics.xlsx
 
 SQLITE3 DB
 1. IPL_DB created for storing the Table.
